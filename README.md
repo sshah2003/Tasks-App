@@ -2,37 +2,39 @@
 
 Submitted by: Sohil Shah
 
-Tasks is an app that ... [TODO] 
+Tasks is an app that allows users to create tasks and go to another tab and see those tasks based on the date on a calendar view.
 
-Time spent: **X** hours spent in total
+Time spent: 2 hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] App displays a list of tasks
-- [ ] Users can add tasks to the list
-- [ ] Session persists when application is closed and relaunched (tasks dont get deleted when closing app) 
-- [ ] Note: You have to quit the app, not minimize it, in order to see the persistence.
-- [ ] Tasks can be deleted
-- [ ] Users have a calendar view via navigation controller that displays tasks	
+- [x] App displays a list of tasks
+- [x] Users can add tasks to the list
+- [x] Session persists when application is closed and relaunched (tasks dont get deleted when closing app) 
+- [x] Note: You have to quit the app, not minimize it, in order to see the persistence.
+- [x] Tasks can be deleted
+- [x] Users have a calendar view via navigation controller that displays tasks	
 
 
 The following **additional** features are implemented:
 
-- [ ] Tasks can be toggled completed
-- [ ] User can edit tasks by tapping on the task in the feed view
+- [x] Tasks can be toggled completed
+- [x] User can edit tasks by tapping on the task in the feed view
 - [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+<div>
+    <a href="https://www.loom.com/share/9f87091abc2b4ef7b6b31c8714d2ed10">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/9f87091abc2b4ef7b6b31c8714d2ed10-with-play.gif">
+    </a>
+  </div>
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Main issue was when tapping on task to complete it would duplicate the task, but that was a starter code issue.
 
 ## License
 
